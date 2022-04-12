@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/12esRRJjpNDVEk4Kut8K9GNE45wJ2tw8u/view?usp=sharing)](https://raghav15112001.github.io)
+[![MasterHead](https://github.com/Raghav15112001/Raghav15112001/blob/main/RAGHAV%20SHAH.png?raw=true)](https://raghav15112001.github.io)
 <h1 align="center">Hi 👋, I'm Raghav Shah</h1>
 <h3 align="center">Programmer | Developer | Learner</h3>
 
