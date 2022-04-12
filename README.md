@@ -13,10 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/raghav_shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghav_shah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghav-shah-a90017203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav-shah-a90017203" height="30" width="40" /></a>
-
-<a href="https://www.hackerearth.com/@raghavshah900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@raghavshah900" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/raghav_shah" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="raghav_shah" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@raghavshah900" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@raghavshah900" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
