@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9278
-Fork on GitHub
-2122
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Raghav Shah</h1>
 <h3 align="center">Programmer | Developer | Learner | Artist | Content Creator</h3>
 
