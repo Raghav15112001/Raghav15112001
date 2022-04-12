@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Raghav15112001/Raghav15112001/blob/main/RAGHAV%20SHAH.png?raw=true)](https://raghav15112001.github.io)
+<!-- [![MasterHead](https://github.com/Raghav15112001/Raghav15112001/blob/main/RAGHAV%20SHAH.png?raw=true)](https://raghav15112001.github.io) -->
 <h1 align="center">Hi 👋, I'm Raghav Shah</h1>
 <h3 align="center">Programmer | Developer | Learner</h3>
 
